@@ -9,3 +9,5 @@ Problem 3 - https://leetcode.com/explore/challenge/card/november-leetcoding-chal
 Problem 4 - https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3519/
 
 Problem 6 - https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3521/
+
+Problem 7 - https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3522/

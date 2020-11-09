@@ -14,7 +14,7 @@ public:
     int maxAncestorDiff(TreeNode* root) {
          int res = 0;
     stack<int> minval, maxval;
-    // end
+    
     
     stack<TreeNode *> st;
     TreeNode *last = nullptr;
@@ -22,7 +22,7 @@ public:
     {
         if (root != nullptr)
         {
-            // addition to iterative postorder traversal
+            
             if (minval.empty()) {
                 minval.push(root->val);
             } else {
@@ -33,7 +33,7 @@ public:
             } else {
                 maxval.push(max(root->val, maxval.top()));
             }
-            // end
+           
             st.push(root);
             root = root->left;
         } 
@@ -46,13 +46,13 @@ public:
             }
             else
             {
-                // addition to iterative postorder traversal
+                
                 int currmin = minval.top();
                 minval.pop();
                 int currmax = maxval.top();
                 maxval.pop();
                 res = max(res, currmax - currmin);
-                // end
+                
                 last = curr;
                 st.pop();
             }

@@ -15,3 +15,5 @@ Problem 7 - https://leetcode.com/explore/challenge/card/november-leetcoding-chal
 Problem 8 - https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3524/
 
 Problem 9 - https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3525/
+
+Problem 10 - https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3526/

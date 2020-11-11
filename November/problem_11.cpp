@@ -3,7 +3,7 @@
     }
     
     bool validSquare(vector<int>& p1, vector<int>& p2, vector<int>& p3, vector<int>& p4) {
-        // keep points in an array to be able to get them by index
+       
         vector<vector<int>> points = {p1, p2, p3, p4};
         set<double> lengths;
         
@@ -13,10 +13,10 @@
                 if (curr != 0)
                     lengths.insert(curr);
                 
-                // if distance is zero - we got a duplicated point
+                
                 else
                     return false;
             }
         }
-        // We are supposed to end with only two different lengths: the sides and the diagonals
+        
         return lengths.size() == 2;

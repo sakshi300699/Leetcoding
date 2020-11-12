@@ -11,15 +11,15 @@ public:
     
     void permute_unique_bt(vector<int>& nums, vector<bool>& used, vector<vector<int>>& result, vector<int>& curr, int k = 0){
         if(k == nums.size()) 
-            result.push_back(curr);  // add current permutation to solutions
+            result.push_back(curr);  
         else {
-            for(int i = 0; i != nums.size(); ++i){ // explore all candidates for the current position
-                if(!used[i] && (i == 0 || nums[i] != nums[i-1] || !used[i-1])){ // selection of valid candidate
-                    used[i] = true; // mark candidate as used for the current solution
-                    curr.push_back(nums[i]); // add the candidate to the current permutation
-                    permute_unique_bt(nums, used, result, curr, k+1); // produce the rest of the permutation
-                    used[i] = false; // re-add candidate for use in other permutations
-                    curr.pop_back(); // remove candidate from current solution at this position in the permutation
+            for(int i = 0; i != nums.size(); ++i){ 
+                if(!used[i] && (i == 0 || nums[i] != nums[i-1] || !used[i-1])){ 
+                    used[i] = true;
+                    curr.push_back(nums[i]); 
+                    permute_unique_bt(nums, used, result, curr, k+1);
+                    used[i] = false;
+                    curr.pop_back();
                 }
             }   
         }

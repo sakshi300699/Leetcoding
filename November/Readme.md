@@ -24,4 +24,6 @@ Problem 12 - https://leetcode.com/explore/featured/card/november-leetcoding-chal
 
 Problem 13 - https://leetcode.com/explore/featured/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3529/
 
+Problem 14 - https://leetcode.com/explore/featured/card/november-leetcoding-challenge/565/week-2-november-8th-november-14th/3530/
+
 Problem 16 - https://leetcode.com/explore/featured/card/november-leetcoding-challenge/566/week-3-november-15th-november-21st/3533/

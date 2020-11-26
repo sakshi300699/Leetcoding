@@ -7,17 +7,17 @@ public:
         }
         map<int,int>mp;
         for(int i=0;i<n;i++){
-            mp[s[i]]++;  //frequency map 
+            mp[s[i]]++;  
         }
         int j=0;
         while(j<n && mp[s[j]]>=k){
-            j++;  //if frequency of each character is more than k 
+            j++;  
             }
             if(j>=n-1){
-                return j; //if we reach the end of string
+                return j; 
             }
         int substring1=longestSubstring(s.substr(0,j),k); 
-        while(j<n && mp[s[j]]<k){ // if more than one character appears which has frequency less than k
+        while(j<n && mp[s[j]]<k){ 
             j++;
         }
         int substring2;

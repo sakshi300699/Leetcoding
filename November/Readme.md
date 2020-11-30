@@ -49,3 +49,5 @@ Problem 27 - https://leetcode.com/explore/featured/card/november-leetcoding-chal
 Problem 28 - https://leetcode.com/explore/featured/card/november-leetcoding-challenge/567/week-4-november-22nd-november-28th/3546/
 
 Problem 29 - https://leetcode.com/explore/featured/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/
+
+Problem 30 - 

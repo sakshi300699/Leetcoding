@@ -50,4 +50,4 @@ Problem 28 - https://leetcode.com/explore/featured/card/november-leetcoding-chal
 
 Problem 29 - https://leetcode.com/explore/featured/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3548/
 
-Problem 30 - 
+Problem 30 - https://leetcode.com/explore/featured/card/november-leetcoding-challenge/568/week-5-november-29th-november-30th/3549/

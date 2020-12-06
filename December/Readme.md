@@ -7,3 +7,5 @@ Problem 2 - https://leetcode.com/explore/featured/card/december-leetcoding-chall
 Problem 3 - https://leetcode.com/explore/featured/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3553/
 
 Problem 4 - https://leetcode.com/explore/featured/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3554/
+
+Problem 5 - https://leetcode.com/explore/featured/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3555/

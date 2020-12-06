@@ -5,7 +5,7 @@ public:
         if (flowerbed.size() == 0) return false;
         if (flowerbed.size() == 1) return flowerbed[0] == 0;
         
-        // Add empty plots in the beginning and end:
+       
         flowerbed.push_back(0);
         flowerbed.insert(flowerbed.begin(), 0);
         

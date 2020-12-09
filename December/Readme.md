@@ -15,3 +15,5 @@ Problem 6 - https://leetcode.com/explore/featured/card/december-leetcoding-chall
 Problem 7 - https://leetcode.com/explore/featured/card/december-leetcoding-challenge/569/week-1-december-1st-december-7th/3557/
 
 Problem 8 - https://leetcode.com/explore/featured/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3559/
+
+Problem 9 - https://leetcode.com/explore/featured/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3560/

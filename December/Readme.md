@@ -23,3 +23,5 @@ Problem 10 - https://leetcode.com/explore/featured/card/december-leetcoding-chal
 Problem 11 - https://leetcode.com/explore/featured/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3562/
 
 Problem 12 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3563/
+
+Problem 13 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/570/week-2-december-8th-december-14th/3564/

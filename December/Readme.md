@@ -39,3 +39,5 @@ Problem 18 - https://leetcode.com/explore/challenge/card/december-leetcoding-cha
 Problem 19 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3571/
 
 Problem 20 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3572/
+
+Problem 21 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3573/

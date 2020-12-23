@@ -43,3 +43,5 @@ Problem 20 - https://leetcode.com/explore/challenge/card/december-leetcoding-cha
 Problem 21 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/571/week-3-december-15th-december-21st/3573/
 
 Problem 22 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3577/
+
+Problem 23 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/572/week-4-december-22nd-december-28th/3578/

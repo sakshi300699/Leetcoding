@@ -59,3 +59,5 @@ Problem 28 - https://leetcode.com/explore/challenge/card/december-leetcoding-cha
 Problem 29 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3585/
 
 Problem 30 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3586/
+
+Problem 31 - https://leetcode.com/explore/challenge/card/december-leetcoding-challenge/573/week-5-december-29th-december-31st/3587/

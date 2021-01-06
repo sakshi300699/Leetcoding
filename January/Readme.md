@@ -7,3 +7,7 @@ Problem 2 - https://leetcode.com/explore/featured/card/january-leetcoding-challe
 Problem 3 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3591/
 
 Problem 4 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3592/
+
+Problem 5 - 
+
+Problem 6 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3594/

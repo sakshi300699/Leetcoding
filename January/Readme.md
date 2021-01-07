@@ -11,3 +11,5 @@ Problem 4 - https://leetcode.com/explore/featured/card/january-leetcoding-challe
 Problem 5 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3593/
 
 Problem 6 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3594/
+
+Problem 7 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/579/week-1-january-1st-january-7th/3595/

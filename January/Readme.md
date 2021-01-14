@@ -23,3 +23,7 @@ Problem 10 - https://leetcode.com/explore/featured/card/january-leetcoding-chall
 Problem 11 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3600/
 
 Problem 12 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3601/
+
+Problem 13 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3602/
+
+Problem 14 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/580/week-2-january-8th-january-14th/3603/

@@ -31,3 +31,5 @@ Problem 14 - https://leetcode.com/explore/featured/card/january-leetcoding-chall
 Problem 15 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/581/week-3-january-15th-january-21st/3605/
 
 Problem 27 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/582/week-4-january-22nd-january-28th/3618/
+
+Problem 31 - https://leetcode.com/explore/featured/card/january-leetcoding-challenge-2021/583/week-5-january-29th-january-31st/3623/

@@ -17,3 +17,5 @@ Problem 7 - https://leetcode.com/explore/challenge/card/february-leetcoding-chal
 Problem 8 - https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3633/
 
 Problem 9 - https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3634/
+
+Problem 10 - https://leetcode.com/explore/challenge/card/february-leetcoding-challenge-2021/585/week-2-february-8th-february-14th/3635/

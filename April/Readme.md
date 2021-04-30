@@ -8,4 +8,6 @@ Problem - 3 : https://leetcode.com/explore/featured/card/april-leetcoding-challe
 
 Problem - 9 : https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/594/week-2-april-8th-april-14th/3702/
 
+Problem 29 - https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3726/
+
 Problem 30 - https://leetcode.com/explore/featured/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3726/

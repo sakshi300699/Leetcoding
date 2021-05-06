@@ -8,4 +8,6 @@ problem 3 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-
 
 problem 4 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3731/
 
+problem 5 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3732/
+
 problem 6 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3733/

@@ -13,3 +13,5 @@ problem 5 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-
 problem 6 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3733/
 
 problem 7 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/598/week-1-may-1st-may-7th/3734/
+
+problem 8 - https://leetcode.com/explore/featured/card/may-leetcoding-challenge-2021/599/week-2-may-8th-may-14th/3736/
